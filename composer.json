@@ -1,0 +1,20 @@
+{
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://raymond2.hostlink.com.hk/satis/web"
+        }
+    ],
+    "name": "hostlink/puxt-db",
+    "description": "puxt db library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Raymond Chong",
+            "email": "mathsgod@yahoo.com"
+        }
+    ],
+    "require": {
+        "mathsgod/r-db": "^3.7"
+    }
+}
